@@ -1,0 +1,6 @@
+{
+  "name": "TubeGrab",
+  "description": "YouTube video and audio downloader with resolution selection up to 4K, 60fps/30fps, MP3/M4A/FLAC extraction with bitrate options, download queue, tag editor, and media manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
